@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Siema tu:");
         System.out.println("Przemek");
         System.out.println("Przemek2");
+        System.out.println("Bartosz");
 
 //        2. Kazdy tworzy klase z nazwa jak swoje imie
 

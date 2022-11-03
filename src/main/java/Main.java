@@ -9,7 +9,7 @@ public class Main {
 //       2. Kazdy tworzy klase z nazwa jak swoje imie
 
 //        3. Niezaleznie zmieniamy imie w tym stringu na swoje
-        System.out.println("Siema jestem Przemek");
+        System.out.println("Siema jestem Bartek");
 
 //        4. Caly czas pracujemy razem ale jestesmy od siebie zalezni.
 //          Co chwile nam coś tu ktoś zmienia.

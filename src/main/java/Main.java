@@ -3,6 +3,7 @@ public class Main {
 //        1. Kazdy dodaje swoje imie do wypisania
         System.out.println("Siema tu:");
         System.out.println("Przemek");
+        System.out.println("Przemek2");
 
 //        2. Kazdy tworzy klase z nazwa jak swoje imie
 

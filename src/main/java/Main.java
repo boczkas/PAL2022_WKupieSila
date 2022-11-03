@@ -5,11 +5,9 @@ public class Main {
         System.out.println("Przemek");
         System.out.println("Przemek2");
         System.out.println("Jan");
-        System.out.println("Beata");
-        System.out.println("Tomek");
+       System.out.println("Beata");
         System.out.println("Michal");
 //       2. Kazdy tworzy klase z nazwa jak swoje imie
-
 
 //        3. Niezaleznie zmieniamy imie w tym stringu na swoje
         System.out.println("Siema jestem Bob Budowniczy");
